@@ -23,7 +23,7 @@ const Navbar = () => {
       withLogo={true}
       imageProps={{
         src: dataSite.iconImage,
-        className: 'w-28',
+        className: 'w-20',
       }}
       styleTitle={{
         fontWeight: 'bold',
